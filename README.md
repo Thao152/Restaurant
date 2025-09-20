@@ -33,7 +33,7 @@ You can explore the full analysis in the Jupyter Notebook (Google Colab) (file a
 5. Visualization (histograms, comparisons)
 6. Conclusions
 # Results
-![alt text](
+![alt text](https://github.com/Thao152/Restaurant/blob/main/image/2.png)
 The overall distribution of tips is right-skewed, with most tips concentrated between 2–4 USD, while higher tips above 6 USD are rare outliers.
 
 Smokers tend to leave smaller and less diverse tips, mostly around 2 USD, with very few cases exceeding 5 USD.
